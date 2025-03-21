@@ -12,7 +12,7 @@ Statistical Testing: Used advanced statistical methods to validate observed tren
 ## Tools & Technologies
 Python: For data manipulation and statistical analysis.    
 
-Libraries: Pandas, NumPy, Seaborn, Matplotlib, and SciPy.    
+Libraries: Pandas, NumPy, Seaborn, Matplotlib.    
 
 ## Dataset
 The World Happiness Report dataset includes metrics like happiness scores, economic data, and social factors from countries worldwide. It serves as a valuable resource for studying global well-being.    
